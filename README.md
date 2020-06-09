@@ -24,6 +24,7 @@ This app will display all the Gyms for exersing
 
 ## Technologies Used
 * Gradle.
+* Firebase
 * Android studio.
 
 
