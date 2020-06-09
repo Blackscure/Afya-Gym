@@ -34,7 +34,7 @@
         android:fontFamily="@font/autour_one"
         android:layout_marginBottom="10dp"
         android:padding="5dp"
-        android:hint="Enter Zip Code"
+        android:hint="type location"
         android:layout_centerHorizontal="true" />
 
     <Button
