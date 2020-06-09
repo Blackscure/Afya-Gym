@@ -40,7 +40,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Find Restaurants"
+        android:text="Search Gym"
         android:id="@+id/findRestaurantsButton"
         android:fontFamily="@font/autour_one"
         android:layout_alignParentBottom="true"
