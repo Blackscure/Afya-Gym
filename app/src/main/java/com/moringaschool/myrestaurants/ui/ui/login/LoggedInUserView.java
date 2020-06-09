@@ -1,4 +1,4 @@
-package  com.moringaschool.myrestaurants.ui.ui.login;
+package com.moringaschool.myrestaurants.ui.ui.login;
 
 /**
  * Class exposing authenticated user details to the UI.
