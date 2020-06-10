@@ -20,7 +20,7 @@
         android:layout_marginTop="35dp"
         android:id="@+id/appNameTextView"
         android:textColor="@color/colorTextIcons"
-        android:fontFamily="@font/autour_one"
+
         android:textSize="40sp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
@@ -31,7 +31,7 @@
         android:id="@+id/locationEditText"
         android:background="@color/colorTextIcons"
         android:layout_above="@+id/findRestaurantsButton"
-        android:fontFamily="@font/autour_one"
+
         android:layout_marginBottom="10dp"
         android:padding="5dp"
         android:hint="type location"
@@ -42,7 +42,7 @@
         android:layout_height="wrap_content"
         android:text="Search Gym"
         android:id="@+id/findRestaurantsButton"
-        android:fontFamily="@font/autour_one"
+
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:background="@color/colorAccent"
